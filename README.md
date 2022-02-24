@@ -1,16 +1,18 @@
-### Hi there 👋
+# プロフィール
 
-<!--
-**monsat/monsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+コンサルティング会社、ヤフーなどを経て、2007年に株式会社ダイレクトサーチジャパンを創業。Webサイト・Webアプリケーション開発を行っています。
+2013年1月にコワーキングスペース茅場町 Co-Edoをオープン。IT系開発者が多数集まるスペースとして多くの勉強会やイベントが行われています。2014年秋に2フロアに拡張。2016年7月に3フロア目となるセミナールームをオープンしました。
 
-Here are some ideas to get you started:
+開発はすべて独学で行い、独立後は受託開発を事業としています。
+Vue.js 3, Nuxt, TypeScript, Firebase, Stripe API, GitHub API 等を活用した開発をおもに行っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技術記事
+
+https://zenn.dev/coedo
+
+## これまで
+
+- 2013年〜現在 コワーキングスペース茅場町 Co-Edo オープン
+- 2007年〜現在 株式会社ダイレクトサーチジャパン
+- 2005年〜2007年 ヤフー株式会社（企画職）
+
