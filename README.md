@@ -6,6 +6,9 @@
 開発はすべて独学で行い、独立後は受託開発を事業としています。
 Vue.js 3, Nuxt, TypeScript, Firebase, Stripe API, GitHub API 等を活用した開発をおもに行っています。
 
+リモートによる開発案件があればぜひご相談ください。
+（連絡はメール・チャット・メッセンジャー等でお願いします。連絡先をご存じない方は[Co-Edo](https://www.coworking.tokyo.jp/)のメールにお願いします。なお電話連絡は固くお断りいたします）
+
 ## 技術記事
 
 https://zenn.dev/coedo
